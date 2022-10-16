@@ -1,0 +1,1 @@
+export const lgas = ['Maiduguri', 'Askira/Uba', 'Abadam', 'Ngala', 'Bayo', 'Gubio', 'Kala/Balge', 'Biu', 'Guzamala', 'Mafa', 'Chibok', 'Kaga', 'Konduga', 'Damboa', 'Kukawa', 'Bama', 'Gwoza', 'Magumeri', 'Jere', 'Hawul', 'Marte', 'Dikwa', 'Kwaya Kusar', 'Mobbar', 'Shani', 'Monguno', 'Nganzai']

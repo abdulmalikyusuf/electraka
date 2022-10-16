@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,700;1,700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    .btn {
+        @apply flex items-center space-x-6 mt-6 bg-accent text-white dark:text-gray-500 rounded-full px-6 py-2 lg:py-4 lg:font-medium text-sm lg:text-lg lg:leading-[27px] text-center;
+    }
+    .btn-primary {
+        @apply bg-primary dark:bg-gray-900 px-12 py-2 text-white dark:text-gray-500 font-medium rounded-lg hover:opacity-40
+    }
+    .h1 {
+        @apply text-lg md:text-2xl lg:text-4xl xl:text-5xl font-semibold lg:font-bold
+    }
+    .h2 {
+        @apply text-xl lg:text-2xl xl:text-4xl font-semibold lg:font-bold
+    }
+    .h3 {
+        @apply text-lg md:text-xl lg:text-2xl xl:text-3xl font-medium lg:font-semibold
+    }
+    .h4 {
+        @apply md:text-lg lg:text-xl xl:text-2xl font-semibold
+    }
+    .h5 {
+        @apply md:text-lg lg:text-xl font-medium
+    }
+    .h6 {
+        @apply text-sm lg:text-lg lg:font-medium
+    }
+
+}
