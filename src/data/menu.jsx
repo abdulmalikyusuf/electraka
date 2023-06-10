@@ -8,9 +8,9 @@ const menu = [
         link: "/home"
     },
     {
-        title: "Sites",
+        title: "Polling Units",
         icon: <MapIcon className="w-6 h-6"/>,
-        link: "/sites"
+        link: "/pus"
     },
     {
         title: "User Settings",

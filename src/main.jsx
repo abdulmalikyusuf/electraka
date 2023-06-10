@@ -2,7 +2,6 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App';
 import './App.css';
-import DashboardOverview from './pages/DashboardOverview';
 
 const container = document.getElementById('root');
 const root = createRoot(container);

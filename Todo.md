@@ -1,14 +1,5 @@
-VOLUNTEERS 
-    - Sites:
-    - STI PIllars: Can see indicators and own activities
-    - MOV: can upload images only
-    - Sites: View own sites locations
-    - Tracked Projects
-    - Can filter activities by partners/MDA/senatorial zones
-
-MDA
-    - STI PIllars
-    - Projects
-    - MOVs
-    - Reports
-    - Sites
+320px — 480px: Mobile devices
+481px — 768px: iPads, Tablets
+769px — 1024px: Small screens, laptops
+1025px — 1200px: Desktops, large screens
+1201px and more —  Extra large screens, TV
